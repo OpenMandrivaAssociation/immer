@@ -10,6 +10,9 @@ License: BSL-1.0
 Group: System/Libraries
 BuildRequires: cmake
 BuildRequires: ninja
+BuildRequires: boost-devel
+BuildRequires: cmake(BDWgc)
+BuildRequires: cmake(Catch2)
 BuildArch: noarch
 
 %description
