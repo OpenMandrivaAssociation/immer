@@ -1,7 +1,7 @@
 %define devname %mklibname immer -d
 
 Name: immer
-Version: 0.8.1
+Version: 0.9.1
 Release: 1
 Source0: https://github.com/arximboldi/immer/archive/refs/tags/v%{version}.tar.gz
 Summary: Library of persistent and immutable data structures written in C++
